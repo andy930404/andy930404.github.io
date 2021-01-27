@@ -1,0 +1,86 @@
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/andy930404/andy930404.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andy930404/andy930404.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+## 教育背景
+- 2016 -- 至今 中国科学院大学 电路与系统专业 博士在读
+- 2012 -- 2014 中北大学 通信工程专业（卓越工程师计划） 本科
+- 2006 -- 2012 北京市第八十中学
+
+## 专业技能
+### 擅长
+- 数据结构与算法、算法性能分析与优化
+- 数学建模、规划与评价模型、启发式算法
+- 数据分析与处理、信息与信号处理
+- 嵌入式、单片机系统、轻量级操作系统
+- C/C++、MATLAB
+### 熟悉
+- 数字通信、数字电路设计
+- 图像处理、计算机图形学、机器学习
+- 软件系统及架构设计、面向对象程序设计
+
+## 主要竞赛获奖
+### 研究生期间
+- 2018.12   2018年中国研究生数学建模竞赛                国家一等奖
+### 本科期间
+- 2015.09   2015年全国大学生电子设计竞赛                国家二等奖
+- 2014.09   2014年全国大学生数学建模竞赛                国家二等奖
+- 2014.05   第五届“蓝桥杯”全国软件和信息技术专业人才大赛 国家一等奖
+- 2014.05   2014年全国无线电测向公开赛                 国家一等奖
+- 2013.05   第四届“蓝桥杯”全国软件和信息技术专业人才大赛 国家三等奖
+### 中学期间
+- 2011.08   2011年亚洲机器人锦标赛中国区选拔赛         第四名、国家二等奖
+- 2011.04   VEX Robotics World Championship 2011    Second Class Award
+- 2010.09   2010年亚洲机器人锦标赛中国区选拔赛     亚军、国家一等奖
+
+
+## 主要荣誉
+- 2019.05   中国科学院大学优秀学生干部
+- 2018.06   中国科学院大学三好学生
+- 2015.01   共青团中央2014年度中国大学生自强之星提名奖
+- 2014.10   中国航天科技集团公司CASC奖学金
+
+
+## 主要项目经历
+### 研究生阶段
+- 2019 -- 2019
+  项目名称：水下机器人控制系统
+  担任职务：项目负责人
+  主要工作：系统方案设计、通信协议与链路、自动控制算法、上位机等
+  
